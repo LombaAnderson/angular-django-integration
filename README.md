@@ -10,7 +10,7 @@ Rest Framework
 
 ## Imagem de exemplo da api do Django Rest Framework
 <div align="center">
-<img src=https://user-images.githubusercontent.com/60937513/168070105-362d9208-daad-4c50-a07f-1383e8d95895.png" width="700" />
+<img src="https://user-images.githubusercontent.com/60937513/168070105-362d9208-daad-4c50-a07f-1383e8d95895.png" width="700" />
 </div>
 
 # principais Tecnologias utilizadas
